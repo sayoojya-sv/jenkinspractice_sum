@@ -1,8 +1,8 @@
 class Sum{
  public static void main(String[] args){
-	int num1=10;
-	int num2=5;
-	int sum=num1+num2;
+	int num_1=10;
+	int num_2=5;
+	int sum=num_1+num_2;
 	System.out.println("Sum is : " +sum);
 	}
 }
